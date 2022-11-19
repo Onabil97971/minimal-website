@@ -1,31 +1,31 @@
 export default [
   {
     year: "Today",
-    title: "YouTube Content Creator",
-    duration: "6 years",
+    title: "Software Engineer and Front End Developer",
+    duration: "1 year",
     details:
-      "My humble attempt at building my version of the digital world one step at a time by documenting my coding journey and creating software engineering and computer science content to help those coming behind me.",
+      "After Graduation and Spending 1 year in the army forces , after finishing my duty for my home country my choice for a career was to become a Front End Developer , Started Learning React and Dont a lot of projects to showcase my Skillset and Craftsmanship in Software.",
   },
   {
-    year: "Today",
-    title: "Solo Indie Developer",
+    year: "2020",
+    title: "Business Degree",
     duration: "4 years",
     details:
-      "I'm a solo indie developer building software for myself and clients to showcase on YouTube. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.",
-  },
-  {
-    year: "2019",
-    title: "Software Engineer",
-    duration: "2 years",
-    details:
-      "I helped build an enterprise application for a Fortune 500 company in an Agile team setting. Our tech stack consisted of TypeSciprt, Angular, Java, Gradle, and a handful of other languages and tools.",
+      "I Finally after a hard and challenging year after the lockdown i finished my Business Degree, I Learnt a lot of skills that will benefit me in any Career Path and in Entrepreneurship ",
   },
   {
     year: "2018",
-    title: "Bachelor's Degree in Computer Science",
-    duration: "5 years",
+    title: "Hobbyist Game Developer",
+    duration: "2 years",
     details:
-      "I pursued the knowledge that a computer science degree had to offer. I learned about computer architecture, computer science theory, an array of programming, and aspects of artificial intelligence.",
+      "while i was in college studying Business Managment and Accounting, i started making video games as a hobby in Lua and C#, Making Games was a fun thing to do and might as well revisit it as a side project soon.",
+  },
+  {
+    year: "2018",
+    title: "Udacity's Andriod App Development Nanodegree",
+    duration: "1 year",
+    details:
+      "This was a milestone for me , the first real step to learn how to make real world apps and solve real world problems for people.",
   },
   {
     year: "2013",
